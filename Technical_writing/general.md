@@ -10,7 +10,7 @@ Let's get started !
 ## Courses
 
 - [Google Technical Writing Course ](https://github.com/Iqmaa/A_Collection_Of_Free_Tech_Resources/blob/main/Technical_writing/Courses.md)
-- [API Documentation](https://shalvah.teachable.com/p/api-documentation-for-developers)
+- [API Documentation](https://idratherbewriting.com/learnapidoc/#about-rest-apis)
 - [Ugur Akinci's Technical & Business Writing](https://www.youtube.com/channel/UCy1Kj_5fBRVfI916nmd_Apw)
 - [Introduction to Technical Writing](https://www.coursera.org/learn/technical-writing-introduction)
 - [Technical Writing by Saylor Academy](https://learn.saylor.org/course/ENGL210)
