@@ -35,7 +35,13 @@ The course teaches you the fundamentals of technical writing. After completing t
 
 Link - [click here to view the course](https://developers.google.com/tech-writing/overview) 
 
-
-
-
 *Note - The Google Technical writing course does a very good job of taking you through the general basics of technical writing and even a little bit more than that, even if you don't end up finishing the course or decide not to take it for whatever reason, the points listed above are enough to take note of to increase your technical writing skills and proficiency.                                 ~Iqma*
+
+
+## Shalvah
+
+This is an API documentation course suitale for all skill levels, even beginners. You'll learn about APIs properly and gain a thorough understanding on how to document one, and best practices on doing so. 
+
+This course willl explain the key concepts you need to know, together with real-world examples. It'll show you how to leverage your dev skills to design documentation workflows. And you'll also go ahead to practice it.
+
+link - [Click this to view the course](https://shalvah.teachable.com/p/api-documentation-for-developers)
